@@ -1,9 +1,10 @@
----
-title: WEF_Hackathon_Group2
-app_file: app.py
-sdk: gradio
-sdk_version: 4.37.2
----
+
+<a href="https://huggingface.co/spaces/Ashoka74/WEF_Hackathon_Group2/tree/main">
+<img alt="Spaces" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue">
+</a>
+
+
+
 
 # WEF Hackathon - Natural Language to SQL/XML Converter
 
